@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14DB94&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Raghul....;Nice+to+meet+you" alt="Typing SVG" /></a>
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=14DB94&width=435&lines=Hello%2C+There!+%F0%9F%91%8B+;This+is+Raghul....;Nice+to+meet+you" alt="Typing SVG" /></a></center>
 
 <!--
 **M-Raghul/M-Raghul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
